@@ -4,7 +4,7 @@ An open-source AI travel planner that turns a natural-language trip request into
 
 ## 🚀 Live Demo
 
-🌐 **Try TravelMate AI:** https://travel-mate-o8pg.onrender.co
+🌐 **Try TravelMate AI:** https://travel-mate-o8pg.onrender.com
 
 > The application is deployed on Render. The first request may take a few seconds if the service has been inactive.
 
