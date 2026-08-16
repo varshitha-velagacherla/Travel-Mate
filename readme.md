@@ -2,6 +2,12 @@
 
 An open-source AI travel planner that turns a natural-language trip request into a practical travel plan with flight suggestions, hotel ideas, and a day-by-day itinerary. The project uses a multi-agent workflow built with LangGraph, LangChain, and FastAPI.
 
+## 🚀 Live Demo
+
+🌐 **Try TravelMate AI:** https://travel-mate-o8pg.onrender.co
+
+> The application is deployed on Render. The first request may take a few seconds if the service has been inactive.
+
 ## Why this project?
 
 Planning a trip usually means jumping between multiple websites, tools, and spreadsheets. This project brings that flow into one experience by combining:
